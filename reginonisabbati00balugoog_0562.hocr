@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./reginonisabbati00balugoog_0562.png"; bbox 0 0 2917 4359; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 120 1145 1198 1534">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 120 1145 1198 1534">
+     <span class='ocr_line' id='line_1_1' title="bbox 120 1145 1122 1310; baseline -0.005 -18"><span class='ocrx_word' id='word_1_1' title='bbox 120 1149 142 1310; x_wconf 80' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_2' title='bbox 239 1145 680 1296; x_wconf 74' lang='lat' dir='ltr'><strong>sTEPHANl</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 747 1173 1122 1296; x_wconf 79' lang='lat' dir='ltr'>BALUZII</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 378 1441 1198 1534; baseline -0.001 -10"><span class='ocrx_word' id='word_1_4' title='bbox 378 1441 984 1534; x_wconf 78' lang='lat' dir='ltr'><strong>TUTELENSIS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1195 1485 1198 1492; x_wconf 63' lang='lat'>=</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 108 1647 1166 2192">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 108 1647 1166 2192">
+     <span class='ocr_line' id='line_1_3' title="bbox 481 1647 1027 1808; baseline 0.004 -3"><span class='ocrx_word' id='word_1_6' title='bbox 481 1680 874 1808; x_wconf 82' lang='lat' dir='ltr'>NOTAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1017 1647 1027 1667; x_wconf 85' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 108 1965 1166 2192; baseline -0.009 -76"><span class='ocrx_word' id='word_1_8' title='bbox 108 2108 109 2116; x_wconf 11' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_9' title='bbox 237 1967 382 2110; x_wconf 84' lang='lat' dir='ltr'>AD</span> <span class='ocrx_word' id='word_1_10' title='bbox 422 1965 1118 2116; x_wconf 70' lang='lat' dir='ltr'>RfiolNoNEM·</span> <span class='ocrx_word' id='word_1_11' title='bbox 1155 1973 1166 2192; x_wconf 14' lang='grc' dir='ltr'>ζ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1464 4359">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1464 4359">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1464 4359; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1464 4359; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
